@@ -12,3 +12,4 @@ A DMX Based controller with preprogrammed chase sequences
 * DMX Sheild - https://www.tindie.com/products/Conceptinetics/dmx-shield-for-arduino-remote-device-management-capable/ 
  * Library - http://sourceforge.net/projects/dmxlibraryforar/
 * Momentary Press Buttons for Sequence Control
+* DMX based Dimmer/Slave power supply 
