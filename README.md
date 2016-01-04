@@ -1,4 +1,4 @@
-# ArdunioDMXShow
+# ArduinoDMXShow
 A DMX Based controller with preprogrammed chase sequences
 
 # Sequences
@@ -8,7 +8,7 @@ A DMX Based controller with preprogrammed chase sequences
 * Sequence 4 - Array On - Specifiy a list of DMX Channel numbers and turn them on
 
 # Hardware
-* Ardunio Uno
+* Arduino Uno
 * DMX Sheild - https://www.tindie.com/products/Conceptinetics/dmx-shield-for-arduino-remote-device-management-capable/ 
  * Library - http://sourceforge.net/projects/dmxlibraryforar/
 * Momentary Press Buttons for Sequence Control
